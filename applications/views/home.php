@@ -1,0 +1,1 @@
+<?php echo "Je suis le plus beau"; ?>
