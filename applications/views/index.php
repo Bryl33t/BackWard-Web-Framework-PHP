@@ -1,1 +1,1 @@
-<h1>Index page</h1>
+<h1>Index page</h1> <?php echo $config['base_url']; ?>

@@ -1,6 +1,8 @@
 <?php
 
-require('../../system/Routes.php');
+require '../../system/Autoloader.php';
+
+Autoloader::register();
 
 $route = new Route();
 
